@@ -1,4 +1,4 @@
 ✌️
 ----
 - [Blog](blog.manuraj.dev)
-- Contact: `manu[at]mraj[dot]come`
+- Contact: `manu[at]mraj[dot]com`
