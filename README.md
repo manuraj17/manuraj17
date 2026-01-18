@@ -1,4 +1,4 @@
 ✌️
 ----
-- I write [here](https://manuraj.dev/blog)
+- I write [here](https://manuraj.dev/)
 - Contact: `manu[at]mraj[dot]com`
